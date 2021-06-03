@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for quickning the lawes made for the reliefe of the poore, and the suppressing, punishing, and setling of the sturdie rogues, and vagabonds.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13018</idno><idno type="EEBO-CITATION">99892668</idno>
+  <idno type="VID">188184</idno>
+  <idno type="EEBO-PROQUEST">2240923581</idno>
+  
+            <idno type="STC">STC 8945</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.1[30]</idno>
+            <idno type="STC">ESTC S123844</idno>
+            <idno type="PROQUEST">ocm99892668</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892668e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13018)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188184)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:1[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for quickning the lawes made for the reliefe of the poore, and the suppressing, punishing, and setling of the sturdie rogues, and vagabonds.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>5 sheets ([10] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.l.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1630?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Text is in gothic letter.</note>
+                  <note>Dated at end: ... Whitehal the three and twentieth day of April, in the sixt yeere of our reigne ...</note>
+                  <note>Imprint conjectured by cataloguer.</note>
+                  <note>Arms 22; Steele notation: excel- haue  2) in 3) in 4) shal 5) ignorance or.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Vagrancy --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Begging --  England --  Law and legislation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:188184:1"/>
+            <pb facs="tcp:188184:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <head>❧ By the KING.</head>
+            <head type="sub">¶ A Proclamation for quickning <hi>the Lawes made for the reliefe of</hi> the Poore, and the suppressing, pu<g ref="char:EOLhyphen"/>nishing, and setling of the sturdie Rogues and Vagabonds.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas many excel<g ref="char:EOLhyphen"/>lent</hi> Lawes and Sta<g ref="char:EOLhyphen"/>tutes with great iudge<g ref="char:EOLhyphen"/>ment and prouidence haue been made in the times of Our late deare and Royall Father, and of the late Queene <hi>Elizabeth,</hi> for the reliefe of the impo<g ref="char:EOLhyphen"/>tent, and indigent Poore, and for the punishing, suppressing, and setling of the sturdy Rogues, and Vaga<g ref="char:EOLhyphen"/>bonds,
+<pb facs="tcp:188184:2"/>which Lawes and Sta<g ref="char:EOLhyphen"/>tutes, if they were duely obserued would be of exceeding great vse for the peace &amp; plenty of this Realme, but the neglect thereof is the occasi<g ref="char:EOLhyphen"/>on of much disorder, and many in<g ref="char:EOLhyphen"/>sufferable abuses. And whereas it is fit at all times, to put in execution those Lawes which are of so neces<g ref="char:EOLhyphen"/>sarie, and so continuall vse: yet the apparant and visible danger of the Pestilence, (vnlesse the same by Gods gracious mercie, and Our prouident endeuours be preuented) doth much more require the same at this present.</p>
+            <p>We haue therefore thought it fit, by the aduice of Our Priuie Coun<g ref="char:EOLhyphen"/>cell, by this Our publike Proclama<g ref="char:EOLhyphen"/>tion, straightly to charge and com<g ref="char:EOLhyphen"/>mand, that all our louing Subiects in their seueral places, doe vse all possible care and diligence as a prin<g ref="char:EOLhyphen"/>cipall meanes to preuent the spread<g ref="char:EOLhyphen"/>ing, and dispersing of that contagi<g ref="char:EOLhyphen"/>ous
+<pb facs="tcp:188184:2"/>sicknesse, to obserue and put in due execution, all the said Lawes made and prouided against Rogues and Vagabonds, and for the reliefe of the truely poore and impotent people. And in the first place, Wee strictly charge and command, that in Our Cities of London, and Westminster, and Suburbs there<g ref="char:EOLhyphen"/>of, and places adiacent thereunto, and generally throughout the whole Kingdome, that there bee carefull Watch, and Ward, kept for the apprehending and punishing of al Rogues and Vagabonds, who either in the streets or high wayes, vnder the names of Souldiers, or Mariners, Glasse-men, Pot-men, Pedlars, or Petty-Chapmen, or of poore or impotent people, shall bee found either wandring, or begging.</p>
+            <p>And Wee doe further strictly charge and command, that all Con<g ref="char:EOLhyphen"/>stables, Head-boroughs, and other Officers, doe vse all diligence, to pu<g ref="char:EOLhyphen"/>nish,
+<pb facs="tcp:188184:3"/>and passe away according to the Law, all such Wanderers, or Beggars, as shall be apprehended, either in the Cities, or places afore<g ref="char:EOLhyphen"/>said, or in any other Cities, Towns, Parishes, or places within this Realme, and take great care that none passe vnder the colour of coun<g ref="char:EOLhyphen"/>terfeit Passes. And that all Irish Rogues, and Vagabonds be forth<g ref="char:EOLhyphen"/>with apprehended, wheresoeuer they shall bee found and punished, and sent home according to a former Proclamation, heretofore published in that behalfe. That all House<g ref="char:EOLhyphen"/>holders of whose persons, or at whose houses, any such Vagrants shall bee taken begging, doe appre<g ref="char:EOLhyphen"/>hend, or cause them to be apprehen<g ref="char:EOLhyphen"/>ded, and caryed to the next Consta<g ref="char:EOLhyphen"/>ble, or other Officer to bee punished, according to the Lawes. And that they forbeare to relieue them, there<g ref="char:EOLhyphen"/>by to giue them incouragement to continue in their wicked course of life.</p>
+            <pb facs="tcp:188184:3"/>
+            <p>That the Iustices of Peace in their seuerall places throughout this Kingdome be carefull either by Prouost Marshals, or by the high Constables, or otherwise by their good discretions effectually to pro<g ref="char:EOLhyphen"/>uide, that all Rogues and Vaga<g ref="char:EOLhyphen"/>bonds of all sorts bee searched for, apprehended punished and suppres<g ref="char:EOLhyphen"/>sed according to the Law. And that once euery moneth at the least, a conuenient number of the Iustices of Peace in euery seuerall Countie and Diuision, shall meete together in some conuenient place in that Di<g ref="char:EOLhyphen"/>uision, and take account of the High Constables, petty Constables, and other Officers within that Diuisi<g ref="char:EOLhyphen"/>on, how they haue obserued the Lawes and Our commandement touching the Premisses.</p>
+            <p>And that they seuerely punish all such as shall bee found remisse or negligent in that behalfe. And We doe hereby strictly charge and com<g ref="char:EOLhyphen"/>mand
+<pb facs="tcp:188184:4"/>as well all and singular Iu<g ref="char:EOLhyphen"/>stices of Peace, Constables, Head<g ref="char:EOLhyphen"/>boroughs, and other Our Officers and Ministers, as also all Our lo<g ref="char:EOLhyphen"/>uing Subiects of what estate or de<g ref="char:EOLhyphen"/>gree soeuer to vse all diligence, that all and euery houses or places which are or shall bee visited or infected with the sicknesse, bee carefully shut vp, and Watch and Ward kept ouer them that no person or persons within those places doe goe abroad, or depart from thence, during the time of such Visitation. And We doe hereby command all and singu<g ref="char:EOLhyphen"/>lar our Iudges of Assize in their se<g ref="char:EOLhyphen"/>uerall Circuits to giue speciall charge, and make speciall inquiry of the defaults of all and euery the Iu<g ref="char:EOLhyphen"/>stices of Peace who shall not ob<g ref="char:EOLhyphen"/>serue their meetings in the seuerall Counties and Diuisions aforesaid, or shall not punish such Constables or other Officers as being informed either by their owne view and
+<pb facs="tcp:188184:4"/>knowledge, or otherwise are or shal be found remisse or negligent in the Premisses, or in leauying such pe<g ref="char:EOLhyphen"/>nalties &amp; forfeitures as the Lawes and Statutes of this Realme re<g ref="char:EOLhyphen"/>quire against the parties offending herein. And thereof to informe Vs or Our Priuy Councell, to the end that such due course may be taken either by remouing out of the Com<g ref="char:EOLhyphen"/>mission such negligent Iustices of the Peace, or otherwise by inflicting such punishment vpon them as shal be due to such as neglect their owne duties, and Our Royall command published vpon so important an oc<g ref="char:EOLhyphen"/>casion.</p>
+            <p>And We doe hereby will require and command all and euery Our Iudges of Assize, Maiors, She<g ref="char:EOLhyphen"/>riffes, Iustices of Peace, Consta<g ref="char:EOLhyphen"/>bles, Headboroughs and other Our Officers, Ministers and Subiects whom it may concerne, that they carefully and effectually obserue
+<pb facs="tcp:188184:5"/>and performe all and euery the Pre<g ref="char:EOLhyphen"/>misses, as they will answere the neglect thereof at their vttermost perils.</p>
+            <p>And whereas Wee haue lately commanded a Booke to be printed and published containing certaine Statutes made and enacted hereto<g ref="char:EOLhyphen"/>fore for the reliefe of the Poore, and of Souldiers and Mariners, and for punishment of Rogues and Va<g ref="char:EOLhyphen"/>gabonds, and for the reliefe and or<g ref="char:EOLhyphen"/>dering of persons infected with the Plague, and also containing cer<g ref="char:EOLhyphen"/>taine Orders heretofore, and now lately conceiued and made concern<g ref="char:EOLhyphen"/>ing health: All which are necessarie to be knowen and obserued by Our louing Subiects, that thereby they may the better auoid those dangers which otherwise may fall vpon their persons or estates by their neglect thereof. Wee haue thought it fit hereby to giue notice thereof to all Our louing Subiects, to the end
+<pb facs="tcp:188184:5"/>that none may pretend ignorance for an excuse, in matters of so great importance. And Wee doe hereby declare, that whosoeuer shall bee found remisse or negligent in the execution of any part of the Pre<g ref="char:EOLhyphen"/>misses, shall receiue such condigne punishment for their offence, as by the Lawes of this Realme, or by Our Prerogatiue Royall can or may be iustly inflicted vpon them.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at Our Court at Whitehal <date>the three and twentieth day of April, in the sixt yeere of Our Reigne of England, Scot<g ref="char:EOLhyphen"/>land, France and Ireland.</date>
+                  </hi>
+               </dateline>
+            </closer>
+            <closer>God saue the King.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
